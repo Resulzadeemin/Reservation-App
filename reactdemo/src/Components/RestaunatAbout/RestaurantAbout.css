@@ -1,0 +1,39 @@
+.all-res-about h3{
+    font: italic 600 40px arial;
+    text-decoration: underline;
+}
+.all-res-about h2{
+    font: 500 30px arial;
+    text-transform: capitalize;
+    margin: 10px 0 20px 0;
+}
+.all-res-about a,label{
+    font: 500 20px arial;
+    color: #040435;
+    display: inline-block;
+    margin-top: 30px;
+}
+.all-res-about input{
+    width: 300px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #666;
+    border-radius: 3px;
+}
+.all-res-about button{
+    border: 0;
+    padding: 100px;
+    padding: 10px;
+    font: 600 15px arial;
+    text-transform: uppercase;
+    background-color: #040427;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.restaurant-about img{
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 0 10px gray;
+    border-radius: 3px;
+}

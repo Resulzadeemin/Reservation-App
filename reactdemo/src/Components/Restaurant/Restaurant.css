@@ -1,0 +1,28 @@
+.res{
+    font: italic 600 40px arial;
+    text-transform: uppercase;
+}
+.restaurant{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.res input{
+    width: 300px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #666;
+    border-radius: 3px;
+}
+.res button{
+    border: 0;
+    padding: 100px;
+    padding: 10px;
+    font: 600 15px arial;
+    text-transform: uppercase;
+    background-color: #040427;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
